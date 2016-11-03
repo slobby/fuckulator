@@ -1,0 +1,10 @@
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\obj\Debug\UnitTestFuckulator.csprojResolveAssemblyReference.cache
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\bin\Debug\UnitTestFuckulator.dll
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\bin\Debug\UnitTestFuckulator.pdb
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\bin\Debug\Fuckulator.exe
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\bin\Debug\nunit.framework.dll
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\bin\Debug\Fuckulator.pdb
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\bin\Debug\nunit.framework.xml
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\obj\Debug\UnitTestFuckulator.dll
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Test\UnitTestFuckulator\obj\Debug\UnitTestFuckulator.pdb

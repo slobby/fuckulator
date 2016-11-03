@@ -1,0 +1,8 @@
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Fuckulator\bin\Debug\Fuckulator.exe.config
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Fuckulator\bin\Debug\Fuckulator.exe
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Fuckulator\bin\Debug\Fuckulator.pdb
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Fuckulator\bin\Debug\nunit.framework.dll
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Fuckulator\bin\Debug\nunit.framework.xml
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Fuckulator\obj\Debug\Fuckulator.csprojResolveAssemblyReference.cache
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Fuckulator\obj\Debug\Fuckulator.exe
+c:\users\slobbery\documents\visual studio 2015\Projects\Fuckulator\Fuckulator\obj\Debug\Fuckulator.pdb
